@@ -1,6 +1,6 @@
 <h1 align="left">hey, i'm kwasi ✌🏿</h1>
 
-<p align="left">math & cs student at fordham · into AI engineering, scalable backends, and building things that actually work in production</p>
+<p align="left">math & cs student at fordham · into AI engineering, scalable backends, and building things</p>
 
 <p align="left">
 <p align="left">lets's talk</p>
