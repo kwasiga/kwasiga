@@ -1,6 +1,6 @@
 # Kwasi Gyimah-Asante
 
-**Math & CS @ Fordham '28** · AI Application Engineering · Backend Systems · NYC
+**Math & CS @ Fordham '28** · AI Engineering · Backend Systems · NYC
 
 ---
 
