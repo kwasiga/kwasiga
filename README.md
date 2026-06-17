@@ -1,4 +1,4 @@
-# Kwasi Gyimah-Asante
+# hey, I'm kwasi
 
 **Math & CS @ Fordham '28** · AI Engineering · Backend Systems · NYC
 
