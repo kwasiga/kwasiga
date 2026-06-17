@@ -1,8 +1,32 @@
-<h1 align="left">hey, i'm kwasi ✌🏿</h1>
+# Kwasi Gyimah-Asante
 
-<p align="left">math & cs student at fordham · into AI engineering, scalable backends, and building things</p>
+**Math & CS @ Fordham '28** · AI Application Engineering · Backend Systems · NYC
 
-<p align="left">
-<p align="left">lets's talk</p>
-<a href="https://linkedin.com/in/kwasiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kwasiga" height="30" width="40" /></a>
-</p>
+---
+
+I build AI-powered products end-to-end — from LLM pipelines and RAG architectures to the APIs and infrastructure that put them in production.
+
+Currently:
+- 🔬 Undergraduate Research Assistant — building a value-iteration MDP solver for quantum network scheduling to benchmark RL policies
+- ⚙️ Shipping an agentic RAG Slack bot (Claude API · pgvector · VoyageAI · Slack Bolt) for real-time codebase Q&A
+- 🐾 Building [PawPath](https://pawpath-ai.vercel.app) — an AI-native dog walking app, live in production
+
+---
+
+## Stack
+
+**AI/ML** — LLM integration, RAG pipelines, agentic workflows, prompt engineering, embeddings, vector search  
+**Backend** — FastAPI, Node.js, PostgreSQL, Docker  
+**Languages** — Python, TypeScript/JavaScript
+
+---
+
+## What I'm focused on
+
+- Agentic systems with real retrieval and memory — not toy demos
+- Eval-driven development: if it's not measured, it doesn't ship
+- Production AI: latency, cost, observability, feedback loops
+
+---
+
+📫 [LinkedIn](https://linkedin.com/in/kwasiga) · Open to **AI engineering internships** for Summer 2027
